@@ -33,6 +33,6 @@
     "showdown-ghost": "0.3.6",
     "sinonjs": "1.14.1",
     "validator-js": "3.39.0",
-    "xregexp": "2.0.0"
+    "xregexp": "git://github.com/slevithan/xregexp#1ba9e1a464c3fe5b5873d71ca311201dd3f04b08"
   }
 }
